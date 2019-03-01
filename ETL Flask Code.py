@@ -13,7 +13,7 @@ from sqlalchemy import create_engine, func, inspect, desc
 from flask import Flask, jsonify
 
 # Input the route to the data SQL file
-engine = create_engine("sqlite://Resources/______.sqlite")
+engine = create_engine("sqlite:///Resources/yelp.sqlite")
 # reflect an existing database into a new model
 Base = automap_base()
 # reflect the tables
