@@ -1,8 +1,10 @@
 # ETL-Project
 ETL Project for Data Bootcamp
-Opening High-End Restaurant in Houston 
-(ETL Project Report)
-Diana Batten & Charles Dixon
+						Opening High-End Restaurant in Houston 
+						(ETL Project Report)
+						Diana Batten & Charles Dixon
+
+
 The Data Sources and Why
 1.	Yelp Developers Website (https://www.yelp.com/developers) -- We chose the website to build an API to gather data about Houston area restaurants.
 2.	Zip Atlas Website (http://zipatlas.com/) – We chose this website to obtain demographic data about the Houston, Texas area.  The site presented us with the opportunity to scrape population, average salary, and zip code information from one spot.
